@@ -1,0 +1,9 @@
+c:\users\javier\documents\visual studio 2015\Projects\Simulador de Memoria Estatica y Dinamica\Simulador de Memoria Estatica y Dinamica\bin\Debug\Simulador de Memoria Estatica y Dinamica.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\Simulador de Memoria Estatica y Dinamica\Simulador de Memoria Estatica y Dinamica\bin\Debug\Simulador de Memoria Estatica y Dinamica.exe
+c:\users\javier\documents\visual studio 2015\Projects\Simulador de Memoria Estatica y Dinamica\Simulador de Memoria Estatica y Dinamica\bin\Debug\Simulador de Memoria Estatica y Dinamica.pdb
+c:\users\javier\documents\visual studio 2015\Projects\Simulador de Memoria Estatica y Dinamica\Simulador de Memoria Estatica y Dinamica\obj\Debug\Simulador de Memoria Estatica y Dinamica.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2015\Projects\Simulador de Memoria Estatica y Dinamica\Simulador de Memoria Estatica y Dinamica\obj\Debug\Simulador_de_Memoria_Estatica_y_Dinamica.Form1.resources
+c:\users\javier\documents\visual studio 2015\Projects\Simulador de Memoria Estatica y Dinamica\Simulador de Memoria Estatica y Dinamica\obj\Debug\Simulador_de_Memoria_Estatica_y_Dinamica.Properties.Resources.resources
+c:\users\javier\documents\visual studio 2015\Projects\Simulador de Memoria Estatica y Dinamica\Simulador de Memoria Estatica y Dinamica\obj\Debug\Simulador de Memoria Estatica y Dinamica.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2015\Projects\Simulador de Memoria Estatica y Dinamica\Simulador de Memoria Estatica y Dinamica\obj\Debug\Simulador de Memoria Estatica y Dinamica.exe
+c:\users\javier\documents\visual studio 2015\Projects\Simulador de Memoria Estatica y Dinamica\Simulador de Memoria Estatica y Dinamica\obj\Debug\Simulador de Memoria Estatica y Dinamica.pdb
