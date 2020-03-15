@@ -1,0 +1,9 @@
+c:\users\javier\documents\visual studio 2015\Projects\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Factorial\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Factorial\Factorial\obj\Debug\Factorial.Form1.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Factorial\Factorial\obj\Debug\Factorial.Properties.Resources.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Factorial\Factorial\obj\Debug\Factorial.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Factorial\Factorial\obj\Debug\Factorial.pdb
