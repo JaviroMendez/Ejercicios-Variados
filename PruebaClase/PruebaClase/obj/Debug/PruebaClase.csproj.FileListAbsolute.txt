@@ -1,0 +1,5 @@
+c:\users\javier\documents\visual studio 2015\Projects\PruebaClase\PruebaClase\bin\Debug\PruebaClase.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\PruebaClase\PruebaClase\bin\Debug\PruebaClase.exe
+c:\users\javier\documents\visual studio 2015\Projects\PruebaClase\PruebaClase\bin\Debug\PruebaClase.pdb
+c:\users\javier\documents\visual studio 2015\Projects\PruebaClase\PruebaClase\obj\Debug\PruebaClase.exe
+c:\users\javier\documents\visual studio 2015\Projects\PruebaClase\PruebaClase\obj\Debug\PruebaClase.pdb
