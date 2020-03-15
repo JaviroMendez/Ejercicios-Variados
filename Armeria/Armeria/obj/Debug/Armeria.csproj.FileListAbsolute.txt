@@ -1,0 +1,13 @@
+c:\users\javier\documents\visual studio 2015\Projects\Armeria\Armeria\bin\Debug\Armeria.exe.config
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Armeria\Armeria\bin\Debug\Armeria.exe
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Armeria\Armeria\bin\Debug\Armeria.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Armeria\Armeria\obj\Debug\Armeria.FrmAcceso.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Armeria\Armeria\obj\Debug\Armeria.Properties.Resources.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Armeria\Armeria\obj\Debug\Armeria.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Armeria\Armeria\obj\Debug\Armeria.exe
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Armeria\Armeria\obj\Debug\Armeria.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Armeria\Armeria\obj\Debug\Armeria.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Armeria\Armeria\obj\Debug\Armeria.FrmCliente.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Armeria\Armeria\obj\Debug\Armeria.FrmMenu.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Armeria\Armeria\obj\Debug\Armeria.FrmProducto.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Armeria\Armeria\obj\Debug\Armeria.FrmVendedor.resources
