@@ -1,0 +1,5 @@
+c:\users\javier\documents\visual studio 2015\Projects\ClaseAbstracta3\ClaseAbstracta3\bin\Debug\ClaseAbstracta3.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\ClaseAbstracta3\ClaseAbstracta3\bin\Debug\ClaseAbstracta3.exe
+c:\users\javier\documents\visual studio 2015\Projects\ClaseAbstracta3\ClaseAbstracta3\bin\Debug\ClaseAbstracta3.pdb
+c:\users\javier\documents\visual studio 2015\Projects\ClaseAbstracta3\ClaseAbstracta3\obj\Debug\ClaseAbstracta3.exe
+c:\users\javier\documents\visual studio 2015\Projects\ClaseAbstracta3\ClaseAbstracta3\obj\Debug\ClaseAbstracta3.pdb
