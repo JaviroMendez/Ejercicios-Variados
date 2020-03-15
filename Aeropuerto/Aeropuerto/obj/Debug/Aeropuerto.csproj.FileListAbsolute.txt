@@ -1,0 +1,9 @@
+c:\users\javier\documents\visual studio 2015\Projects\Aeropuerto\Aeropuerto\bin\Debug\Aeropuerto.exe.config
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Aeropuerto\Aeropuerto\bin\Debug\Aeropuerto.exe
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Aeropuerto\Aeropuerto\bin\Debug\Aeropuerto.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Aeropuerto\Aeropuerto\obj\Debug\Aeropuerto.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Aeropuerto\Aeropuerto\obj\Debug\Aeropuerto.Aeropuerto.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Aeropuerto\Aeropuerto\obj\Debug\Aeropuerto.Properties.Resources.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Aeropuerto\Aeropuerto\obj\Debug\Aeropuerto.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Aeropuerto\Aeropuerto\obj\Debug\Aeropuerto.exe
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Aeropuerto\Aeropuerto\obj\Debug\Aeropuerto.pdb
