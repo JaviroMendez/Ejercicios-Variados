@@ -1,0 +1,10 @@
+c:\users\javier\documents\visual studio 2015\Projects\PilaLista\PilaLista\bin\Debug\PilaLista.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\PilaLista\PilaLista\bin\Debug\PilaLista.exe
+c:\users\javier\documents\visual studio 2015\Projects\PilaLista\PilaLista\bin\Debug\PilaLista.pdb
+c:\users\javier\documents\visual studio 2015\Projects\PilaLista\PilaLista\obj\Debug\PilaLista.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2015\Projects\PilaLista\PilaLista\obj\Debug\PilaLista.Properties.Resources.resources
+c:\users\javier\documents\visual studio 2015\Projects\PilaLista\PilaLista\obj\Debug\PilaLista.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2015\Projects\PilaLista\PilaLista\obj\Debug\PilaLista.exe
+c:\users\javier\documents\visual studio 2015\Projects\PilaLista\PilaLista\obj\Debug\PilaLista.pdb
+c:\users\javier\documents\visual studio 2015\Projects\PilaLista\PilaLista\obj\Debug\PilaLista.Lista.resources
+c:\users\javier\documents\visual studio 2015\Projects\PilaLista\PilaLista\obj\Debug\PilaLista.Pila.resources
