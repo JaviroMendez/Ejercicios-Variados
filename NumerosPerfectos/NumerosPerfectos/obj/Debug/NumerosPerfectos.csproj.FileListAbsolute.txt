@@ -1,0 +1,9 @@
+c:\users\javier\documents\visual studio 2015\Projects\NumerosPerfectos\NumerosPerfectos\bin\Debug\NumerosPerfectos.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\NumerosPerfectos\NumerosPerfectos\bin\Debug\NumerosPerfectos.exe
+c:\users\javier\documents\visual studio 2015\Projects\NumerosPerfectos\NumerosPerfectos\bin\Debug\NumerosPerfectos.pdb
+c:\users\javier\documents\visual studio 2015\Projects\NumerosPerfectos\NumerosPerfectos\obj\Debug\NumerosPerfectos.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2015\Projects\NumerosPerfectos\NumerosPerfectos\obj\Debug\NumerosPerfectos.Form1.resources
+c:\users\javier\documents\visual studio 2015\Projects\NumerosPerfectos\NumerosPerfectos\obj\Debug\NumerosPerfectos.Properties.Resources.resources
+c:\users\javier\documents\visual studio 2015\Projects\NumerosPerfectos\NumerosPerfectos\obj\Debug\NumerosPerfectos.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2015\Projects\NumerosPerfectos\NumerosPerfectos\obj\Debug\NumerosPerfectos.exe
+c:\users\javier\documents\visual studio 2015\Projects\NumerosPerfectos\NumerosPerfectos\obj\Debug\NumerosPerfectos.pdb
