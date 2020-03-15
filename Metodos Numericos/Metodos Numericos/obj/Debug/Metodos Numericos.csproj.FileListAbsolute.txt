@@ -1,0 +1,94 @@
+c:\users\javier\documents\visual studio 2015\Projects\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.exe
+c:\users\javier\documents\visual studio 2015\Projects\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.pdb
+c:\users\javier\documents\visual studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmSerieMaclaurin.resources
+c:\users\javier\documents\visual studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Properties.Resources.resources
+c:\users\javier\documents\visual studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.exe
+c:\users\javier\documents\visual studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.pdb
+C:\Users\CINTHIA Y HECTOR\Desktop\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.exe.config
+C:\Users\CINTHIA Y HECTOR\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.exe
+C:\Users\CINTHIA Y HECTOR\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.pdb
+C:\Users\CINTHIA Y HECTOR\Desktop\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.exe
+C:\Users\CINTHIA Y HECTOR\Desktop\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.pdb
+C:\Users\CINTHIA Y HECTOR\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.csprojResolveAssemblyReference.cache
+C:\Users\CINTHIA Y HECTOR\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmMenu.resources
+C:\Users\CINTHIA Y HECTOR\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmSerieMaclaurin.resources
+C:\Users\CINTHIA Y HECTOR\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Properties.Resources.resources
+C:\Users\CINTHIA Y HECTOR\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.csproj.GenerateResource.Cache
+H:\Archivos\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.exe.config
+H:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.exe
+H:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Ea.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Et.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Intervalo_Biseccion.resources
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.exe.config
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.exe
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.pdb
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.exe
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.pdb
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.csprojResolveAssemblyReference.cache
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Ea.resources
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Et.resources
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmMenu.resources
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmSerieMaclaurin.resources
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Intervalo_Biseccion.resources
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Properties.Resources.resources
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmMenuIntervalo.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmIntervaloBiseccion.resources
+D:\Archivos\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.exe.config
+D:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.exe
+D:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.pdb
+D:\Archivos\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.exe
+D:\Archivos\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.pdb
+D:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.csprojResolveAssemblyReference.cache
+D:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Ea.resources
+D:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Et.resources
+D:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmIntervaloBiseccion.resources
+D:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmMenu.resources
+D:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmMenuIntervalo.resources
+D:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmSerieMaclaurin.resources
+D:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Intervalo_Biseccion.resources
+D:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Properties.Resources.resources
+D:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.csproj.GenerateResource.Cache
+D:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmIteracionPunto.resources
+E:\Archivos\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.exe.config
+E:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.exe
+E:\Archivos\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmIteracionPunto.resources
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmGauss.resources
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmIntervaloBiseccion.resources
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmIteracionPunto.resources
+C:\Users\José Alberto\Desktop\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmMenuIntervalo.resources
+E:\Archivos\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.exe.config
+E:\Archivos\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.exe
+E:\Archivos\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.pdb
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.exe.config
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.exe
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.pdb
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Ea.resources
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Et.resources
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmGauss.resources
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmIntervaloBiseccion.resources
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmIteracionPunto.resources
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmMenuIntervalo.resources
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmSerieMaclaurin.resources
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Intervalo_Biseccion.resources
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.MenuI.resources
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.MenuII.resources
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.MenuIII.resources
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Properties.Resources.resources
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Unidades.resources
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.exe
+C:\Users\Javier\Documents\JaJa TEAM\UNIDAD III\PROYECTO 3RA ENTREGA\Metodos Numericos\Metodos Numericos\bin\Debug\Metodos Numericos.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos Numericos.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.FrmGauss.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.MenuI.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.MenuII.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.MenuIII.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.MenuIV.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Unidades.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Metodos Numericos\Metodos Numericos\obj\Debug\Metodos_Numericos.Simpson.resources
