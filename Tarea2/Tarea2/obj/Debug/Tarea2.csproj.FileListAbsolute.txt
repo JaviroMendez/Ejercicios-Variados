@@ -1,0 +1,6 @@
+c:\users\javier\documents\visual studio 2015\Projects\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Tarea2\Tarea2\obj\Debug\Tarea2.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
