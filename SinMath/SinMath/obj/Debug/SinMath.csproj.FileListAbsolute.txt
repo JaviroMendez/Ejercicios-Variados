@@ -1,0 +1,9 @@
+c:\users\javier\documents\visual studio 2015\Projects\SinMath\SinMath\bin\Debug\SinMath.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\SinMath\SinMath\obj\Debug\SinMath.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2015\Projects\SinMath\SinMath\obj\Debug\SinMath.SinMath.resources
+c:\users\javier\documents\visual studio 2015\Projects\SinMath\SinMath\obj\Debug\SinMath.Properties.Resources.resources
+c:\users\javier\documents\visual studio 2015\Projects\SinMath\SinMath\obj\Debug\SinMath.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2015\Projects\SinMath\SinMath\bin\Debug\SinMath.exe
+c:\users\javier\documents\visual studio 2015\Projects\SinMath\SinMath\bin\Debug\SinMath.pdb
+c:\users\javier\documents\visual studio 2015\Projects\SinMath\SinMath\obj\Debug\SinMath.exe
+c:\users\javier\documents\visual studio 2015\Projects\SinMath\SinMath\obj\Debug\SinMath.pdb
