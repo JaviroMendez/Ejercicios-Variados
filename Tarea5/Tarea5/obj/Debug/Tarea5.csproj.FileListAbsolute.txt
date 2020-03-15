@@ -1,0 +1,5 @@
+c:\users\javier\documents\visual studio 2015\Projects\Tarea5\Tarea5\bin\Debug\Tarea5.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\Tarea5\Tarea5\bin\Debug\Tarea5.exe
+c:\users\javier\documents\visual studio 2015\Projects\Tarea5\Tarea5\bin\Debug\Tarea5.pdb
+c:\users\javier\documents\visual studio 2015\Projects\Tarea5\Tarea5\obj\Debug\Tarea5.exe
+c:\users\javier\documents\visual studio 2015\Projects\Tarea5\Tarea5\obj\Debug\Tarea5.pdb
