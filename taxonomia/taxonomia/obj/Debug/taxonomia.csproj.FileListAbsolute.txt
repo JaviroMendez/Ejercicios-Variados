@@ -1,0 +1,33 @@
+C:\Users\PC\Source\Workspaces\Workspace\taxonomia\taxonomia\bin\Debug\taxonomia.exe.config
+C:\Users\PC\Source\Workspaces\Workspace\taxonomia\taxonomia\bin\Debug\taxonomia.exe
+C:\Users\PC\Source\Workspaces\Workspace\taxonomia\taxonomia\bin\Debug\taxonomia.pdb
+C:\Users\PC\Source\Workspaces\Workspace\taxonomia\taxonomia\obj\Debug\taxonomia.csprojResolveAssemblyReference.cache
+C:\Users\PC\Source\Workspaces\Workspace\taxonomia\taxonomia\obj\Debug\taxonomia.exe
+C:\Users\PC\Source\Workspaces\Workspace\taxonomia\taxonomia\obj\Debug\taxonomia.pdb
+F:\taxonomia\taxonomia\bin\Debug\taxonomia.exe.config
+F:\taxonomia\taxonomia\obj\Debug\taxonomia.exe
+F:\taxonomia\taxonomia\obj\Debug\taxonomia.pdb
+F:\taxonomia\taxonomia\bin\Debug\taxonomia.exe
+F:\taxonomia\taxonomia\bin\Debug\taxonomia.pdb
+F:\taxonomia\taxonomia\obj\Debug\taxonomia.csprojResolveAssemblyReference.cache
+E:\taxonomia\taxonomia\bin\Debug\taxonomia.exe.config
+E:\taxonomia\taxonomia\obj\Debug\taxonomia.exe
+E:\taxonomia\taxonomia\obj\Debug\taxonomia.pdb
+E:\taxonomia\taxonomia\bin\Debug\taxonomia.exe
+E:\taxonomia\taxonomia\bin\Debug\taxonomia.pdb
+E:\taxonomia\taxonomia\obj\Debug\taxonomia.csprojResolveAssemblyReference.cache
+H:\taxonomia\taxonomia\bin\Debug\taxonomia.exe.config
+H:\taxonomia\taxonomia\obj\Debug\taxonomia.exe
+H:\taxonomia\taxonomia\obj\Debug\taxonomia.pdb
+H:\taxonomia\taxonomia\obj\Debug\taxonomia.csprojResolveAssemblyReference.cache
+H:\taxonomia\taxonomia\bin\Debug\taxonomia.exe
+H:\taxonomia\taxonomia\bin\Debug\taxonomia.pdb
+C:\Users\vazqu\Desktop\taxonomia\taxonomia\bin\Debug\taxonomia.exe.config
+C:\Users\vazqu\Desktop\taxonomia\taxonomia\obj\Debug\taxonomia.exe
+C:\Users\vazqu\Desktop\taxonomia\taxonomia\obj\Debug\taxonomia.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\taxonomia\taxonomia\bin\Debug\taxonomia.exe.config
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\taxonomia\taxonomia\obj\Debug\taxonomia.exe
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\taxonomia\taxonomia\obj\Debug\taxonomia.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\taxonomia\taxonomia\bin\Debug\taxonomia.exe
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\taxonomia\taxonomia\bin\Debug\taxonomia.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\taxonomia\taxonomia\obj\Debug\taxonomia.csprojResolveAssemblyReference.cache
