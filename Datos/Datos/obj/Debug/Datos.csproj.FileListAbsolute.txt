@@ -1,0 +1,6 @@
+c:\users\javier\documents\visual studio 2015\Projects\Datos\Datos\bin\Debug\Datos.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\Datos\Datos\bin\Debug\Datos.exe
+c:\users\javier\documents\visual studio 2015\Projects\Datos\Datos\bin\Debug\Datos.pdb
+c:\users\javier\documents\visual studio 2015\Projects\Datos\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2015\Projects\Datos\Datos\obj\Debug\Datos.exe
+c:\users\javier\documents\visual studio 2015\Projects\Datos\Datos\obj\Debug\Datos.pdb
