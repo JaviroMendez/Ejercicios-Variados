@@ -1,0 +1,9 @@
+c:\users\javier\documents\visual studio 2015\Projects\SitioWeb\SitioWeb\bin\Debug\SitioWeb.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\SitioWeb\SitioWeb\bin\Debug\SitioWeb.exe
+c:\users\javier\documents\visual studio 2015\Projects\SitioWeb\SitioWeb\bin\Debug\SitioWeb.pdb
+c:\users\javier\documents\visual studio 2015\Projects\SitioWeb\SitioWeb\obj\Debug\SitioWeb.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2015\Projects\SitioWeb\SitioWeb\obj\Debug\SitioWeb.Properties.Resources.resources
+c:\users\javier\documents\visual studio 2015\Projects\SitioWeb\SitioWeb\obj\Debug\SitioWeb.Form1.resources
+c:\users\javier\documents\visual studio 2015\Projects\SitioWeb\SitioWeb\obj\Debug\SitioWeb.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2015\Projects\SitioWeb\SitioWeb\obj\Debug\SitioWeb.exe
+c:\users\javier\documents\visual studio 2015\Projects\SitioWeb\SitioWeb\obj\Debug\SitioWeb.pdb
