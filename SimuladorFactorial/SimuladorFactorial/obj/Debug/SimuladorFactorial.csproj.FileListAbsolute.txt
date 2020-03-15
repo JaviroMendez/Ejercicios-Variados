@@ -1,0 +1,9 @@
+c:\users\javier\documents\visual studio 2015\Projects\SimuladorFactorial\SimuladorFactorial\bin\Debug\SimuladorFactorial.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\SimuladorFactorial\SimuladorFactorial\obj\Debug\SimuladorFactorial.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2015\Projects\SimuladorFactorial\SimuladorFactorial\obj\Debug\SimuladorFactorial.SimuladorFactorial.resources
+c:\users\javier\documents\visual studio 2015\Projects\SimuladorFactorial\SimuladorFactorial\obj\Debug\SimuladorFactorial.Properties.Resources.resources
+c:\users\javier\documents\visual studio 2015\Projects\SimuladorFactorial\SimuladorFactorial\obj\Debug\SimuladorFactorial.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2015\Projects\SimuladorFactorial\SimuladorFactorial\bin\Debug\SimuladorFactorial.exe
+c:\users\javier\documents\visual studio 2015\Projects\SimuladorFactorial\SimuladorFactorial\bin\Debug\SimuladorFactorial.pdb
+c:\users\javier\documents\visual studio 2015\Projects\SimuladorFactorial\SimuladorFactorial\obj\Debug\SimuladorFactorial.exe
+c:\users\javier\documents\visual studio 2015\Projects\SimuladorFactorial\SimuladorFactorial\obj\Debug\SimuladorFactorial.pdb
