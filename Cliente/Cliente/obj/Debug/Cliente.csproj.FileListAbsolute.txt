@@ -1,0 +1,6 @@
+c:\users\javier\documents\visual studio 2015\Projects\Cliente\Cliente\bin\Debug\Cliente.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\Cliente\Cliente\bin\Debug\Cliente.exe
+c:\users\javier\documents\visual studio 2015\Projects\Cliente\Cliente\bin\Debug\Cliente.pdb
+c:\users\javier\documents\visual studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.exe
+c:\users\javier\documents\visual studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.pdb
