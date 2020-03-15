@@ -1,0 +1,6 @@
+c:\users\javier\documents\visual studio 2015\Projects\ClaseAbstracta2\ClaseAbstracta2\bin\Debug\ClaseAbstracta2.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\ClaseAbstracta2\ClaseAbstracta2\bin\Debug\ClaseAbstracta2.exe
+c:\users\javier\documents\visual studio 2015\Projects\ClaseAbstracta2\ClaseAbstracta2\bin\Debug\ClaseAbstracta2.pdb
+c:\users\javier\documents\visual studio 2015\Projects\ClaseAbstracta2\ClaseAbstracta2\obj\Debug\ClaseAbstracta2.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2015\Projects\ClaseAbstracta2\ClaseAbstracta2\obj\Debug\ClaseAbstracta2.exe
+c:\users\javier\documents\visual studio 2015\Projects\ClaseAbstracta2\ClaseAbstracta2\obj\Debug\ClaseAbstracta2.pdb
