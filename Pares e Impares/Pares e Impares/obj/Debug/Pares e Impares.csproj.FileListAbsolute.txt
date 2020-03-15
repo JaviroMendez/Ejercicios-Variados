@@ -1,0 +1,9 @@
+c:\users\javier\documents\visual studio 2015\Projects\Pares e Impares\Pares e Impares\bin\Debug\Pares e Impares.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\Pares e Impares\Pares e Impares\bin\Debug\Pares e Impares.exe
+c:\users\javier\documents\visual studio 2015\Projects\Pares e Impares\Pares e Impares\bin\Debug\Pares e Impares.pdb
+c:\users\javier\documents\visual studio 2015\Projects\Pares e Impares\Pares e Impares\obj\Debug\Pares e Impares.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2015\Projects\Pares e Impares\Pares e Impares\obj\Debug\Pares_e_Impares.Form1.resources
+c:\users\javier\documents\visual studio 2015\Projects\Pares e Impares\Pares e Impares\obj\Debug\Pares_e_Impares.Properties.Resources.resources
+c:\users\javier\documents\visual studio 2015\Projects\Pares e Impares\Pares e Impares\obj\Debug\Pares e Impares.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2015\Projects\Pares e Impares\Pares e Impares\obj\Debug\Pares e Impares.exe
+c:\users\javier\documents\visual studio 2015\Projects\Pares e Impares\Pares e Impares\obj\Debug\Pares e Impares.pdb
