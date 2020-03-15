@@ -1,0 +1,30 @@
+c:\users\vazqu\onedrive\documentos\visual studio 2015\Projects\Exposicion\Exposicion\bin\Debug\Exposicion.exe.config
+c:\users\vazqu\onedrive\documentos\visual studio 2015\Projects\Exposicion\Exposicion\bin\Debug\Exposicion.exe
+c:\users\vazqu\onedrive\documentos\visual studio 2015\Projects\Exposicion\Exposicion\bin\Debug\Exposicion.pdb
+c:\users\vazqu\onedrive\documentos\visual studio 2015\Projects\Exposicion\Exposicion\obj\Debug\Exposicion.csprojResolveAssemblyReference.cache
+c:\users\vazqu\onedrive\documentos\visual studio 2015\Projects\Exposicion\Exposicion\obj\Debug\Exposicion.Form1.resources
+c:\users\vazqu\onedrive\documentos\visual studio 2015\Projects\Exposicion\Exposicion\obj\Debug\Exposicion.Principal.resources
+c:\users\vazqu\onedrive\documentos\visual studio 2015\Projects\Exposicion\Exposicion\obj\Debug\Exposicion.Properties.Resources.resources
+c:\users\vazqu\onedrive\documentos\visual studio 2015\Projects\Exposicion\Exposicion\obj\Debug\Exposicion.csproj.GenerateResource.Cache
+c:\users\vazqu\onedrive\documentos\visual studio 2015\Projects\Exposicion\Exposicion\obj\Debug\Exposicion.exe
+c:\users\vazqu\onedrive\documentos\visual studio 2015\Projects\Exposicion\Exposicion\obj\Debug\Exposicion.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Exposicion\Exposicion\bin\Debug\Exposicion.exe.config
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Exposicion\Exposicion\obj\Debug\Exposicion.exe
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Exposicion\Exposicion\obj\Debug\Exposicion.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Exposicion\Exposicion\bin\Debug\Exposicion.exe
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Exposicion\Exposicion\bin\Debug\Exposicion.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Exposicion\Exposicion\obj\Debug\Exposicion.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Exposicion\Exposicion\obj\Debug\Exposicion.Form1.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Exposicion\Exposicion\obj\Debug\Exposicion.Principal.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Exposicion\Exposicion\obj\Debug\Exposicion.Properties.Resources.resources
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Exposicion\Exposicion\obj\Debug\Exposicion.csproj.GenerateResource.Cache
+C:\Exposicion\Exposicion\bin\Debug\Exposicion.exe.config
+C:\Exposicion\Exposicion\obj\Debug\Exposicion.exe
+C:\Exposicion\Exposicion\obj\Debug\Exposicion.pdb
+C:\Exposicion\Exposicion\bin\Debug\Exposicion.exe
+C:\Exposicion\Exposicion\bin\Debug\Exposicion.pdb
+C:\Exposicion\Exposicion\obj\Debug\Exposicion.csprojResolveAssemblyReference.cache
+C:\Exposicion\Exposicion\obj\Debug\Exposicion.Form1.resources
+C:\Exposicion\Exposicion\obj\Debug\Exposicion.Principal.resources
+C:\Exposicion\Exposicion\obj\Debug\Exposicion.Properties.Resources.resources
+C:\Exposicion\Exposicion\obj\Debug\Exposicion.csproj.GenerateResource.Cache
