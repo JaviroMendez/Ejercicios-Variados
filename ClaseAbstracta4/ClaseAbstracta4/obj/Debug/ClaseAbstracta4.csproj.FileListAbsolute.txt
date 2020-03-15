@@ -1,0 +1,5 @@
+c:\users\javier\documents\visual studio 2015\Projects\ClaseAbstracta4\ClaseAbstracta4\bin\Debug\ClaseAbstracta4.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\ClaseAbstracta4\ClaseAbstracta4\bin\Debug\ClaseAbstracta4.exe
+c:\users\javier\documents\visual studio 2015\Projects\ClaseAbstracta4\ClaseAbstracta4\bin\Debug\ClaseAbstracta4.pdb
+c:\users\javier\documents\visual studio 2015\Projects\ClaseAbstracta4\ClaseAbstracta4\obj\Debug\ClaseAbstracta4.exe
+c:\users\javier\documents\visual studio 2015\Projects\ClaseAbstracta4\ClaseAbstracta4\obj\Debug\ClaseAbstracta4.pdb
