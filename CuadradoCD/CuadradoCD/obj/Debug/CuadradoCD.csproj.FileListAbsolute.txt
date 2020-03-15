@@ -1,0 +1,5 @@
+c:\users\javier\documents\visual studio 2015\Projects\CuadradoCD\CuadradoCD\bin\Debug\CuadradoCD.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\CuadradoCD\CuadradoCD\bin\Debug\CuadradoCD.exe
+c:\users\javier\documents\visual studio 2015\Projects\CuadradoCD\CuadradoCD\bin\Debug\CuadradoCD.pdb
+c:\users\javier\documents\visual studio 2015\Projects\CuadradoCD\CuadradoCD\obj\Debug\CuadradoCD.exe
+c:\users\javier\documents\visual studio 2015\Projects\CuadradoCD\CuadradoCD\obj\Debug\CuadradoCD.pdb
