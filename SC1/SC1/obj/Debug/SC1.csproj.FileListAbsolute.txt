@@ -1,0 +1,6 @@
+c:\users\javier\documents\visual studio 2015\Projects\SC1\SC1\bin\Debug\SC1.exe.config
+c:\users\javier\documents\visual studio 2015\Projects\SC1\SC1\bin\Debug\SC1.exe
+c:\users\javier\documents\visual studio 2015\Projects\SC1\SC1\bin\Debug\SC1.pdb
+c:\users\javier\documents\visual studio 2015\Projects\SC1\SC1\obj\Debug\SC1.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2015\Projects\SC1\SC1\obj\Debug\SC1.exe
+c:\users\javier\documents\visual studio 2015\Projects\SC1\SC1\obj\Debug\SC1.pdb
